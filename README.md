@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm the CEO of 株式会社ＴＩ東京 (aka TI Tokyo), at which we work on various IT consulting projects with a special focus on Riak KV, Riak CS and Riak TS
+I'm the CEO of [株式会社ＴＩ東京 (aka TI Tokyo)](https://www.tiot.jp/en/), at which we work on various IT consulting projects with a special focus on Riak KV, Riak CS and Riak TS.
+
+Currently working on three Riak-related projects, one startup project and assorted smallfry.
 
 I'm a fan of Riak, Erlang, Docker, Visual Studio Code, C#, and Powershell. 
 I like to think I'm pretty good at regex, but everyone is delutional about something.
